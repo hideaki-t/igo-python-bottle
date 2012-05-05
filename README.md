@@ -1,4 +1,4 @@
 igo-python-pass
 ===============
 
-igo-python on PaaS
+igo-python with bottle framework
